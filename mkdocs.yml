@@ -1,0 +1,7 @@
+site_name: Smart Media Documentation
+nav:
+    - Home: index.md
+    - Test: test.md
+    - UU: universell-utforming.md
+theme: readthedocs
+
