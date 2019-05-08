@@ -19,6 +19,7 @@ Verktøyene som er brukt er [MkDocs](https://www.mkdocs.org/) og CI fra [readthe
 Logg inn med Smart's bruker for å endre noe hos ReadTheDocs
 
 For å kjøre systemet lokalt:
+
 * `~/project-folder> pip install mkdocs`
 * `~/project-folder> mkdocs serve`
 
