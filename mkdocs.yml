@@ -2,7 +2,7 @@ site_name: Smart Media Documentation
 nav:
     - Home: index.md
     - Test: test.md
-    - UU: universell-utforming.md
+    - "UU i Smart Media": universell-utforming.md
 markdown_extensions:
     - toc:
         baselevel: 2

@@ -1,23 +1,5 @@
  
-
-# Universell Utforming i Smart Media
-
-### 2019 edition
-
-# Agenda
-
-1. Hva er universell uforming
-2. Hvorfor universell utforming.
-3. Gjeldende WCAG 2.0 krav
-4. WAI-ARIA
-5. Tilsyn-funn fra DIFI
-6. Introduksjon av WCAG 2.1 krav
-
- 
-
-# Hva er universell uforming
-
-## Hva er universell utforming
+# Hva er universell utforming
 
 * Universell utforming (uu) er et sett med krav om tilgjengelighet som norske IKT-løsninger må oppfylle.
 * Alle krav fra DIFI stammer fra W3C sin [WCAG spesifikasjon for tilgjengelighet](http://www.w3.org/TR/WCAG20/). 
@@ -47,12 +29,6 @@
 * Nøvendig for noen, bra for alle.
 
 
-
-# Gjeldende krav
-
-![Let's do this!](/img/do_this.jpg "Let's do this!")
-
-
 ## Begreper
 
 * __Nettside__: En enkelt side på et nettsted.
@@ -62,7 +38,7 @@
 * __Tvangsmulkt__: Fungerer som en bot, straffen DIFI har for å kunne piske nettløsninger.
 
 
-### 4 prinsipper
+## 4 prinsipper
 
 * Oppfatte
 * Betjene
@@ -339,17 +315,11 @@ element.addEventListener('focus', () => {
 ```
  
 
-
-# WCAG 2.0 ferdig
-
-![Relax](/img/relax.png )
-
  
 
 
 # WAI-ARIA
-## Web Accessibility Initiative - 
-## Accessible Rich Internet Applications
+## Web Accessibility Initiative - Accessible Rich Internet Applications
 
 
 ## Hva er ARIA
@@ -414,80 +384,25 @@ Skjema-feil
 
 
 # Resultat av tilsyn
-![illustrasjon: Big Brother is watching](/img/tilsyn_header.jpg )
 
- 
-
- 
-## Tilsyn
- 
-
- 
 ## Resultat - samlet
 ![Tema-basert](/img/tilsyn_tema.png )
- 
-
-
- 
-
- 
-## Tilsyn
- 
-
  
 ## Resultat - Navigasjon
 ![navigasjon](/img/tilsyn_navigasjon.png )
  
-
- 
-
- 
-## Tilsyn
- 
-
- 
 ## Resultat - Bruk av tastatur
 ![Tastaturnavigasjon](/img/tilsyn_tastatur.png )
- 
-
- 
-
- 
-## Tilsyn
- 
-
  
 ## Resultat - Koding av innhold
 ![Koding av innhold](/img/tilsyn_koding_innhold.png )
  
-
- 
-
- 
-## Tilsyn
- 
-
- 
 ## Resultat - Bruk av skjema
-![Koding av innhold](/img/tilsyn_bruk_av_skjema.png )
- 
-
- 
-
- 
-## Tilsyn
- 
-
+![Skjemabruk](/img/tilsyn_bruk_av_skjema.png )
  
 ## Resultat - Alternativt format
-![Koding av innhold](/img/tilsyn_alternativt_format.png )
- 
+![Alternativt format](/img/tilsyn_alternativt_format.png )
 
-
-
-
-
- 
 
 ## Hva er nytt i WCAG 2.1
 
@@ -504,8 +419,7 @@ Skjema-feil
  
 
  
-### 1.3
-## Mulig å tilpasse
+### 1.3 Mulig å tilpasse
  
  
 ### 1.3.4 Orientasjon
@@ -537,26 +451,14 @@ Skjema-feil
 
 
  
-### 1.4 
-## Mulig å tilpasse
-1/2
- 
- 
+## 1.4  Mulig å tilpasse
+
 ### 1.4.10 Reflow (AA)
 * Man skal ikke trenge å scroll'e i 2 retninger, selv om man zoomer inn til 400%
 
 ### 1.4.11 Non-Text Contrast (AA)
 * Eksempel: ramme i form-elementer, kunne se at input-elementer faktisk er er input-elementer, som teksbokser og knapper.
 * Kravet er kontrast-score på 3:1
- 
-
-
-
- 
-### 1.4 
-## Mulig å tilpasse
-2/2
- 
  
 ### 1.4.12 Text Spacing (AA)
 
@@ -576,8 +478,7 @@ Skjema-feil
 
 
  
-### 2.1
-## Tastatur tilgjengelig
+## 2.1 Tastatur tilgjengelig
  
 
  
@@ -588,8 +489,7 @@ Skjema-feil
 
 
  
-### 2.5
-## Input Modalities
+## 2.5 Input Modalities
 Ny seksjon
  
  
@@ -614,21 +514,13 @@ Ny seksjon
 
 
  
-### 4.1
-## Kompatibel
+## 4.1 Kompatibel
  
  
 ### 4.1.3 Status Messages (AA)
 
 * Bruke `role="status"` eller `role="error"` på elementer som gir tilbakemelding fra feks skjema, slik at skjermlesere vil lese de automatisk.
  
-
- 
-
-# Teori ferdig
-
-!["Sovende student"]( /img/sleep.jpg )
-
 
  
 # Fremtiden
