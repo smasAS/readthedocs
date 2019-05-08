@@ -1,5 +1,0 @@
---- 
-title: Alphamal Settings
----
-
-# TODO

@@ -21,6 +21,7 @@ date: 2017-07-26 10:16:53
 5. Klikk på 'Recheck Nameservers' på [cloudflare](https://www.cloudflare.com/)
 
 
+
 ![Cloudflare](../img/domener/dns-cloudflare-01.gif)
 
 ### Ferdig!

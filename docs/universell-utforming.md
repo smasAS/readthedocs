@@ -52,7 +52,7 @@ title: UU i Smart Media
 
 # 1.x: Oppfatte
 
-![Perception](img/perception.jpg)
+![Perception](img/uu/perception.jpg)
 
  
 ## 1.1 Tekstlig alternativ
@@ -120,7 +120,7 @@ title: UU i Smart Media
 
 # 2.x: Betjene
 
-![Perception](img/usability.jpg)
+![Perception](img/uu/usability.jpg)
 
 
  
@@ -203,7 +203,7 @@ title: UU i Smart Media
 
 # 3.x: Forstå
 
-![Understand](img/understand.jpg )
+![Understand](img/uu/understand.jpg )
 
  
 ### 3.1
@@ -280,7 +280,7 @@ element.addEventListener('focus', () => {
 
 # 4.x: Robust
 
-![Robust](img/robust.png )
+![Robust](img/uu/robust.png )
 
  
 ### 4.1
@@ -389,27 +389,27 @@ Skjema-feil
 # Resultat av tilsyn
 
 ## Resultat - samlet
-![Tema-basert](img/tilsyn_tema.png )
+![Tema-basert](img/uu/tilsyn_tema.png )
  
 ## Resultat - Navigasjon
-![navigasjon](img/tilsyn_navigasjon.png )
+![navigasjon](img/uu/tilsyn_navigasjon.png )
  
 ## Resultat - Bruk av tastatur
-![Tastaturnavigasjon](img/tilsyn_tastatur.png )
+![Tastaturnavigasjon](img/uu/tilsyn_tastatur.png )
  
 ## Resultat - Koding av innhold
-![Koding av innhold](img/tilsyn_koding_innhold.png )
+![Koding av innhold](img/uu/tilsyn_koding_innhold.png )
  
 ## Resultat - Bruk av skjema
-![Skjemabruk](img/tilsyn_bruk_av_skjema.png )
+![Skjemabruk](img/uu/tilsyn_bruk_av_skjema.png )
  
 ## Resultat - Alternativt format
-![Alternativt format](img/tilsyn_alternativt_format.png )
+![Alternativt format](img/uu/tilsyn_alternativt_format.png )
 
 
 ## Hva er nytt i WCAG 2.1
 
-![Relax](img/wcag21_news.jpg )
+![Relax](img/uu/wcag21_news.jpg )
 
 
  
