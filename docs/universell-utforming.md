@@ -49,7 +49,7 @@
 
 # 1.x: Oppfatte
 
-![Perception](/_images/perception.jpg)
+![Perception](img/perception.jpg)
 
  
 ## 1.1 Tekstlig alternativ
@@ -117,7 +117,7 @@
 
 # 2.x: Betjene
 
-![Perception](/_images/usability.jpg)
+![Perception](img/usability.jpg)
 
 
  
@@ -200,7 +200,7 @@
 
 # 3.x: Forstå
 
-![Understand](/_images/understand.jpg )
+![Understand](img/understand.jpg )
 
  
 ### 3.1
@@ -277,7 +277,7 @@ element.addEventListener('focus', () => {
 
 # 4.x: Robust
 
-![Robust](/_images/robust.png )
+![Robust](img/robust.png )
 
  
 ### 4.1
@@ -386,27 +386,27 @@ Skjema-feil
 # Resultat av tilsyn
 
 ## Resultat - samlet
-![Tema-basert](/_images/tilsyn_tema.png )
+![Tema-basert](img/tilsyn_tema.png )
  
 ## Resultat - Navigasjon
-![navigasjon](/_images/tilsyn_navigasjon.png )
+![navigasjon](img/tilsyn_navigasjon.png )
  
 ## Resultat - Bruk av tastatur
-![Tastaturnavigasjon](/_images/tilsyn_tastatur.png )
+![Tastaturnavigasjon](img/tilsyn_tastatur.png )
  
 ## Resultat - Koding av innhold
-![Koding av innhold](/_images/tilsyn_koding_innhold.png )
+![Koding av innhold](img/tilsyn_koding_innhold.png )
  
 ## Resultat - Bruk av skjema
-![Skjemabruk](/_images/tilsyn_bruk_av_skjema.png )
+![Skjemabruk](img/tilsyn_bruk_av_skjema.png )
  
 ## Resultat - Alternativt format
-![Alternativt format](/_images/tilsyn_alternativt_format.png )
+![Alternativt format](img/tilsyn_alternativt_format.png )
 
 
 ## Hva er nytt i WCAG 2.1
 
-![Relax](/_images/wcag21_news.jpg )
+![Relax](img/wcag21_news.jpg )
 
 
  
