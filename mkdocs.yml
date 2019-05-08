@@ -4,6 +4,6 @@ docs_dir: docs
 markdown_extensions:
     - toc:
         baselevel: 2
-        toc_depth: "1-2"
+        toc_depth: 1-2
 theme: readthedocs
 

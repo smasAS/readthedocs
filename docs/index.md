@@ -2,20 +2,23 @@
 title: Hjem
 ---
 
-# Welcome to MkDocs
+## Velkommen til Smart Media
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+### Legge til dokumentasjon
 
-## Commands
+* Klone repo fra [BitBucket](https://bitbucket.org/smartmediaas/readthedocs/)
+* Legg til og/eller redigere filer i  `docs`-mappen
+* `git add .`
+* `git commit -m "Hva har du tukla med?"`
+* `git push origin master`
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+### Endre docs-konfigurasjon
 
-## Project layout
+Verktøyene som er brukt er [MkDocs](https://www.mkdocs.org/) og CI fra [readthedocs.org](https://readthedocs.org).
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Logg inn med Smart's bruker for å endre noe hos ReadTheDocs
+
+For å kjøre systemet lokalt:
+* `~/project-folder> pip install mkdocs`
+* `~/project-folder> mkdocs serve`
+
