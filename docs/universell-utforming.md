@@ -1,4 +1,7 @@
- 
+---
+title: UU i Smart Media 
+---
+
 # Hva er universell utforming
 
 * Universell utforming (uu) er et sett med krav om tilgjengelighet som norske IKT-løsninger må oppfylle.
