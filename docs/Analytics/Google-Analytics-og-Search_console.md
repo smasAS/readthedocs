@@ -25,17 +25,20 @@ date: 2017-07-26 10:16:53
 
 # Innstillinger for Analytics
 1. Admin > View > View Settings
-  1.1 Huk av:       'Exclude all hits form known bots and spiders'
+	* Huk av:       'Exclude all hits form known bots and spiders'
+
 2. Admin > View > Custom Alerts lag en ny varsling med følgende innstillinger:
-  2.1 Alert name:   'Ingen trafikk har blitt registrert det siste døgnet'
-  2.2 Apply to:     'All Web Site Data'
-  2.3 Period:       'Week'
-  2.4 Huk av:       'Send me an email when this alert triggers'
+	* Alert name:   'Ingen trafikk har blitt registrert det siste døgnet'
+	* Apply to:     'All Web Site Data'
+	* Period:       'Week'
+	* Huk av:       'Send me an email when this alert triggers'
+
 3. Admin > Property > Tracking info > Data Collection
-  3.1 Slå på:       'Enable remarketing'
-  3.2 Slå på:       'Enable Advertising Report Features'
+	* Slå på:       'Enable remarketing'
+	* Slå på:       'Enable Advertising Report Features'
+
 4. Admin > Property > Property Settings > Adjust Search Console
-  4.1 Koble til riktig [Search Console profil](#ny-search-console-account)
+	* Koble til riktig [Search Console profil](#ny-search-console-account)
 
 
 ![Innstillinger for Analytics](../img/analytics/analytics-02.gif)
