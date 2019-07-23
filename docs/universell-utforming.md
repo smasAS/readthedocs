@@ -77,8 +77,7 @@ title: UU i Smart Media
 * Video med lyd må ha teksting
 
  
-### 1.3 
-## Mulig å tilpasse
+## 1.3 Mulig å tilpasse
  
 
  
@@ -94,11 +93,7 @@ title: UU i Smart Media
 * Informasjon må aldri være utelukkende visuell, eller utelukkende lyd-basert.
  
 
- 
-### 1.4
-## Mulig å skille
- 
-
+## 1.4 Mulig å skille
  
 ### 1.4.1 Bruk av farge 
 * Farge skal ikke være alene om å formidle informasjon. Lenker og feilmeldinger.
@@ -124,9 +119,7 @@ title: UU i Smart Media
 
 
  
-### 2.1
-## Tastatur tilgjengelig
- 
+## 2.1 Tastatur tilgjengelig
 
  
 ### 2.1.1 Tastatur 
@@ -136,11 +129,8 @@ title: UU i Smart Media
 * Ingen komponent på en nettside skal kunne hindre fokus fra å gå til de andre komponentene på siden.
  
 
-
  
-### 2.2
-## Nok tid
- 
+## 2.2 Nok tid
 
  
 ### 2.2.1 Justerbar hastighet 
@@ -151,24 +141,14 @@ title: UU i Smart Media
 * Største utfordring: slidere
  
 
-
-
  
-### 2.3
-## Anfall og fysisk reaksjon
- 
-
+## 2.3 Anfall og fysisk reaksjon
  
 ### 2.3.1 Terskelverdi på glimt
 * Innhold kan ikke blinke mer enn tre ganger i løpet av ett sekund.
  
-
  
-### 2.4
-## Navigere
-1/2
- 
-
+## 2.4 Navigere
  
 ### 2.4.1 Omgå blokker
 * Det må gå ann å omgå blokker som gjentas på flere sider.
@@ -185,15 +165,6 @@ title: UU i Smart Media
 ### 2.4.5 Flere måter
 * Det finnes mer enn én måte å finne frem til en nettside.
  
-
- 
-### 2.4
-## Navigere
-2/2
- 
-
-
- 
 ### 2.4.6 Overskrifter og ledetekster
 * Overskrifter og ledetekster beskriver emne eller formål.
 
@@ -206,10 +177,8 @@ title: UU i Smart Media
 ![Understand](img/uu/understand.jpg )
 
  
-### 3.1
-## Leselig
+## 3.1 Leselig
  
-
  
 ### 3.1.1 Språk på siden
 * Sidens innhold skal være på et naturlig språk.
@@ -227,10 +196,8 @@ title: UU i Smart Media
  
 
  
-### 3.2
-## Forutsigbar
+## 3.2 Forutsigbar
  
-
  
 ### 3.2.1 Fokus
 * Endring av fokus skal ikke gjøre betydelige endringer på siden, eller flytte fokus på en måte som kan desorientere.
@@ -251,15 +218,10 @@ element.addEventListener('focus', () => {
 ### 3.2.4 Konsekvent identifikasjon
 * Elementer med samme funksjonalitet skal utformes likt hver gang de brukes.
 
-
  
-
-
  
-### 3.3
-## Input-assistanse
+## 3.3 Input-assistanse
  
-
  
 ### 3.3.1 Identifikasjon av feil 
 * Hvis en inndata-feil oppdages autmatisk så identifiseres inndata-feltet, og bruker får instruks om hvordan å rette feil. 
@@ -283,10 +245,8 @@ element.addEventListener('focus', () => {
 ![Robust](img/uu/robust.png )
 
  
-### 4.1
-## Kompatibel
+## 4.1 Kompatibel
  
-
  
 ### 4.1.1 Parsing
 * Alle sider skal være uten store kodefeil.
@@ -317,9 +277,7 @@ element.addEventListener('focus', () => {
 <aside name="sidebar" role="complementary">...</aside>
 ```
  
-
  
-
 
 # WAI-ARIA
 ## Web Accessibility Initiative - Accessible Rich Internet Applications
@@ -335,7 +293,6 @@ element.addEventListener('focus', () => {
  
 ## ARIA-eksempel
  
-
  
 Det er ikke nødvendig å alltid ha `<label>` elementer.
 
@@ -348,13 +305,10 @@ Det er ikke nødvendig å alltid ha `<label>` elementer.
 />
 ```
  
-
  
 ## ARIA-Skjema
  
-
  
-
 Skjema-feil
 
 
@@ -449,10 +403,7 @@ Skjema-feil
 <input type="password" 
 	autocomplete="sm-login current-password">
 ```
-
  
-
-
  
 ## 1.4  Mulig å tilpasse
 
@@ -483,14 +434,11 @@ Skjema-feil
  
 ## 2.1 Tastatur tilgjengelig
  
-
  
 ### 2.1.4 Character Key Shortcuts (A)
 
 * Keyboard-shortcuts, hvis de bruker kun bokstaver (ikke feks shift+X) må være mulig å deaktivere
  
-
-
  
 ## 2.5 Input Modalities
 Ny seksjon
