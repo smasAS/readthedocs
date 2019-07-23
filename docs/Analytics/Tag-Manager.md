@@ -19,12 +19,14 @@ date: 2017-07-26 10:16:53
 # Oppsett Wordpress
 
 1. Legg inn [DuracellTomi's Google Tag Manager for WordPress](https://nb.wordpress.org/plugins/duracelltomi-google-tag-manager/) på siden
+
 2. Innstillinger > Google Tag Manager
-  2.1. Legg inn korrekt Tag Manager ID
-  2.2. Huk av 'Custom' under container placement
+	* Legg inn korrekt Tag Manager ID
+	* Huk av 'Custom' under container placement
+
 3. Basic Data > Visitors
-  3.1. Huk av 'Logged in status'
-  3.2. Huk av 'Logged in user role'
+	* Huk av 'Logged in status'
+	* Huk av 'Logged in user role'
 
 ![Oppsett Wordpress](../img/analytics/tag-manager-02.gif)
 
