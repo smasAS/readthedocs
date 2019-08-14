@@ -1,5 +1,5 @@
 --- 
-title: Lag egne moduler
+title: Good to know
 ---
 
 # Shortcodes
