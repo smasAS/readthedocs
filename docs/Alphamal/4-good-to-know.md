@@ -29,11 +29,11 @@ Resultat:
 ```
 
 # Legge til bildestørrelser
+Å legge til egendefinerte bildestørrelser gjøres ved hjelp av vår egen plugin Alphamal Settings. Det er viktig at det gjøres på den måten, slik at bildestørrelsen blir synlig alle steder hvor man kan velge det i BB.
+
+![Hvordan legge til bildestørrelser](../img/alphamal/bilder.gif)
 
 # Legge til webfonter
 Om man skal bruke en annen webfont enn Google Fonts (som er default i BB), så finnes det en måte å få lagt inn dette ved hjelp av vår egen plugin Alphamal Settings. Det er viktig at det gjøres på den måten, slik at fonten blir synlig alle steder hvor man kan velge fonter i BB.
 
-<video width="500" height="200" controls loop video controls autoplay>
-    <source src="../img/alphamal/fonter.webm" type="video/webm">
-    Your browser does not support the video tag.
-</video>
+![Hvordan legge til fonter](../img/alphamal/fonter.gif)
