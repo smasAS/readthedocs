@@ -28,10 +28,10 @@ BeaverBuilder pluginen gir oss mulighet til å justere på globale innstillinger
 
 ## Endre header og footer
 
-Tekst
+Dette gjør vi ved hjelp av BeaverThemer. Alphamel kommer med flere ferdige alternativer til dette.
 
 ## Egen CSS og JS
 
-Undertekst
+All CSS og JS som vi selv legger inn skal enten legges inn via **Globale innstillinger** eller via en modul (om modulen har mulighet for å legge til dette).
 
 ## Lage sidemaler
