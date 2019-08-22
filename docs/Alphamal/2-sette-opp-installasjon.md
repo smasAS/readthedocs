@@ -8,6 +8,6 @@ Start med å logge inn med vår bruker her: [my.wpengine.com](https://my.wpengin
 
 # Klone Alphamal
 
-Tekst
+Kommer...
 
 ---
