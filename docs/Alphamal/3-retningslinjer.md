@@ -1,6 +1,8 @@
 --- 
-title: Best practice
+title: Retningslinjer
 ---
+
+Her er retningslinjer for hvordan man bør gå frem og hva man bør tenke når man bruker Alphamal for å bygge et nytt nettsted.
 
 # Sette generelle innstillinger
 
@@ -33,7 +35,7 @@ All CSS og JS som vi selv legger inn skal enten legges til via **Globale innstil
 
 Når man legger til CSS/JS i *globale innstillinger (cmd + U)* vil dette gjelder globalt for hele nettstedet. Det finnes også noe som heter *Oppsett CSS & Javascript (cmd + Y)* men denne skal vi unngå å bruke, da kode som legges inn her kun gjelder for den aktuelle siden du er inne å redigerer på.
 
-## Gyldne reger for CSS
+## Retningslinjer for bruk av CSS
 - Style kun klasser og ikke ID'er
 - Style kun klasser som er "faste" (laget av deg selv eller fast i en modul) og ikke de som er genersik opprettet.  
 <small>BB lager mange genersike css-klasser som f.eks ligner på *fl-node-5bb4998c4461c*. Disse er genersik laget og kan plutselig endre seg om noen gjør en justering her eller der. Derfor legger vi heller inn våre egne klasser, som vi vet at ikke kommer til å endre seg (eller bruker klasser fra en modul som du ser at ikke er opprettet genersik).</small>
