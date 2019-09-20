@@ -8,4 +8,7 @@ De viktigste komponentene til **Alphamal** er utvidelsene [**Beaver Builder**](h
 
 Formålet med denne dokumentasjonen:  
 - Nye ansatte skal ha et sted å kunne lese seg opp på hvordan man bruker Alphamal.  
-- Hjelpe oss å standardisere måten vi gjør ting på, slik at vi ikke løser det på forskjellig vis for hvert nettsted vi lager.  
+- Hjelpe oss å standardisere måten vi gjør ting på, slik at vi ikke løser det på forskjellig vis for hvert nettsted vi lager.
+
+**Ser du noe som bør endres, mangler eller noe du er uenig i?**  
+Send e-post til [monika@smartmedia.no](mailto:monika@smartmedia.no) og gi beskjed!
