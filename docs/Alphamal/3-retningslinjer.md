@@ -70,6 +70,10 @@ Ha __ALLTID__ uu i bakhodet når du setter opp eller lager noe. Tenk over at alt
 BB gjør det mulig å velge å wrappe rader, kolonner og moduler med HTML-elementer. Det er viktig å bruke riktige elementer for at både søkemotorer og skjermlesere skal kunne lese og forstå innholdet på nettsiden best mulig.
 <div style="padding:55.05% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/362750858?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><br>
 
+Man skal ikke duplisere markup for å kunne ha forskjellig utseende på forskjellig breakpoints, hvor da "samme" markup blir vist flere ganger nedover siden og bare skjule med CSS. Søkemotorer bryr seg ikke om CSS og leser derfor samme innhold flere ganger. Man må heller bruke en versjon av markupen og CSS til å manipulere utseende for forskjellige breakpoints.
+
+[Les mer om HTML5 her](http://html5doctor.com/)
+
 ## Forklaring på de mest viktigste HTML5 elementene
 ```<main>``` omslutter det dominerende innholdet på nettstedet, inkludert alt artikkelinnhold og andre relaterte seksjoner som utvider det sentrale temaet på siden, som f.eks. ```<article>``` og ```<section>```.
 

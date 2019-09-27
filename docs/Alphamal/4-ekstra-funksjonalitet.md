@@ -26,6 +26,11 @@ Om man skal bruke en annen webfont enn Google Fonts (som er default i BB), så f
 
 ---
 
+# Sticky header på tablet og mobil
+Det ligger inne en kombo av CSS og JS (som er kommentert ut) inne i Alphamal som sørger for at det kan brukes sticky header på tablet og mobil. Denne finner man igjen i globale innstillinger. Koden fjernes om den ikke skal taes i bruk.
+
+---
+
 # Shortcodes
 
 ## Alphamal bg image
