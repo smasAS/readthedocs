@@ -81,10 +81,10 @@ Man skal ikke duplisere markup for å kunne ha forskjellig utseende på forskjel
 
 ```<section>``` brukes for å dele opp innhold der det er natulig å det i forskjellige seksjoner. Forsiden er et sted hvor det ofte er bruk for dette. En seksjon må alltid ha sin egen overskrift med en heading-tag. Kan ligge inne i en ```<article>```.
 
-```<aside>``` brukes for sidestilt innhold, som f.eks. innhold i en sidebar. Innholdet i en ```<àside>``` skal være relatert til det omkringliggende innholdet. Kan ligge inne i en ```<article>```.  
-*Eksempel: En nyhetsartikkel har et felt hvor det står detaljer om forfatteren som har skrevet artikkelen. Dette kan legges i en ```aside```.*
+```<aside>``` brukes for sidestilt innhold, som f.eks. innhold i en sidebar. Innholdet i en ```<àside>``` skal være relatert til det omkringliggende innholdet. Bør tildeles en ```role=""``` da den kan være alt fra meny til infoboks osv. Kan ligge inne i en ```<article>```.  
+*Eksempel: En nyhetsartikkel har et felt hvor det står detaljer om forfatteren som har skrevet artikkelen. Dette kan legges i en ```aside``` med ```role="note"```.*
 
-```<nav>``` brukes for å markere navigasjon / menyer. Slik som hovedmenyen i ```<header>```, breadcrumbs, meny i ```<footer>``` o.l.
+```<nav>``` brukes for å markere navigasjon / menyer. Slik som hovedmenyen i ```<header>```, breadcrumbs, meny i ```<footer>``` o.l. Finnes det flerre ```<nav>``` på en side, så bør de få en ```role```.
 
 ```<header>``` brukes hovedsaklig for header på selve nettstedet, men en ```<article>``` eller ```<section>``` kan ha sin egen ```<header>```.
 
